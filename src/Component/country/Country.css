@@ -1,0 +1,25 @@
+.countryStyle{
+    text-shadow: 2px 2px 5px rgb(185, 183, 198);
+    align-items:flex-start;
+    float: left;
+    padding: 20px;
+    margin: 20px;
+   height: 400px;
+   width: 370px;
+   box-shadow: 5px 5px 10px;
+}
+img{
+    height: 80px;
+}
+.Add-Button{
+    
+    background-color: #0df49f;
+    height: 35px;
+    width: auto;
+    border-radius: 5px
+    
+}
+.Add-Button:hover {
+    box-shadow: 1px 6px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    border: none;
+  }
